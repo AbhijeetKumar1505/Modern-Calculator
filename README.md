@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Modern Calculator
 
 A simple, modern calculator application built with Python and Tkinter. This calculator provides a clean, user-friendly interface for performing basic arithmetic operations.
@@ -49,3 +50,7 @@ The calculator features a modern, grid-based layout with:
 The calculator includes basic error handling:
 - Invalid calculations will display "Error"
 - The clear button (C) can be used to reset after an error 
+=======
+# Modern-Calculator
+A modern Tkinter calculator with basic operations, percentage, +/- toggle, decimal support, clear function, and error handling. Features a clean, responsive UI with a large display and organized buttons. Run with python calculator.py after ensuring Python is installed.
+>>>>>>> b19642e6f46cb78663d8778b8c171ea211cc9611
