@@ -1,0 +1,2 @@
+# This project uses Tkinter, which is included in Python's standard library
+# No additional packages are required 
